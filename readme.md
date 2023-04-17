@@ -12,3 +12,7 @@ This project is inspired by one of the challenges of [Dan Shiffman](https://www.
 - [Mapbox](https://www.mapbox.com/)
 - [Web Mercator on Wikipedia](https://en.wikipedia.org/wiki/Web_Mercator_projection)
 - [Earthquake Database](https://www.usgs.gov/programs/earthquake-hazards/data)
+
+## Demo
+
+You can view the demo of this project [here](https://russ-mt.github.io/Earthquake-DataMap/).
